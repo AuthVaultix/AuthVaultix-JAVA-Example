@@ -20,7 +20,7 @@ public class Login extends Activity {
     private static final String ownerid = "";
     private static final String secret = "";
     private static final String version = "";
-    private static final String url = "https://api.authvaultix.com/api/1.0/";
+    private static final String url = "https://authvaultix.com/api/1.0/";
 
     AuthSecure AuthSecure;
 
